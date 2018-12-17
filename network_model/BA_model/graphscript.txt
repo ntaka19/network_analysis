@@ -1,0 +1,4 @@
+library(igraph)
+list<-read.csv("list.csv");
+list.net<-graph.data.frame(list);
+plot(list.net);
