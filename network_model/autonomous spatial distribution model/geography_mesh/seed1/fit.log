@@ -1,0 +1,333 @@
+
+
+*******************************************************************************
+Thu Nov 23 02:05:29 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.8528358000e+08   0.00e+00  9.99e+00    1.000000e+00   1.000000e+00
+   5 9.8037360000e+06  -4.24e-07  9.99e-05    1.324900e+04  -5.809286e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9.80374e+06
+rel. change during last iteration : -4.24141e-12
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1107.01
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.22547e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 13249            +/- 1107         (8.355%)
+b               = -58.0929         +/- 3.781e+16    (6.508e+16%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.000  1.000 
+
+
+*******************************************************************************
+Thu Nov 23 02:07:09 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.8037360000e+06   0.00e+00  2.96e+03    1.324900e+04  -5.809286e+01
+   1 9.8037360000e+06   0.00e+00  2.96e+02    1.324900e+04  -5.809286e+01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 9.80374e+06
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1107.01
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.22547e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 13249            +/- 1107         (8.355%)
+b               = -58.0929         +/- 3.781e+16    (6.508e+16%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.000  1.000 
+
+
+*******************************************************************************
+Thu Nov 23 02:07:11 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.8037360000e+06   0.00e+00  2.96e+03    1.324900e+04  -5.809286e+01
+   1 9.8037360000e+06   0.00e+00  2.96e+02    1.324900e+04  -5.809286e+01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 9.80374e+06
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1107.01
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.22547e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 13249            +/- 1107         (8.355%)
+b               = -58.0929         +/- 3.781e+16    (6.508e+16%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.000  1.000 
+
+
+*******************************************************************************
+Thu Nov 23 02:07:12 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.8037360000e+06   0.00e+00  2.96e+03    1.324900e+04  -5.809286e+01
+   1 9.8037360000e+06   0.00e+00  2.96e+02    1.324900e+04  -5.809286e+01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 9.80374e+06
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1107.01
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.22547e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 13249            +/- 1107         (8.355%)
+b               = -58.0929         +/- 3.781e+16    (6.508e+16%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.000  1.000 
+
+
+*******************************************************************************
+Thu Nov 23 02:08:53 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.8531324000e+08   0.00e+00  2.87e-17    1.324900e+04  -5.809286e+01
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Thu Nov 23 02:09:03 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.8037360000e+06   0.00e+00  2.96e+03    1.324900e+04  -5.553582e+01
+   1 9.8037360000e+06   0.00e+00  2.96e+02    1.324900e+04  -5.553582e+01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 9.80374e+06
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1107.01
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.22547e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 13249            +/- 1107         (8.355%)
+b               = -55.5358         +/- 6.418e+15    (1.156e+16%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.000  1.000 
+
+
+*******************************************************************************
+Thu Nov 23 02:10:21 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [5.00000 : 10.0000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.0631700000e+05   0.00e+00  4.97e-34    1.324900e+04  -5.553582e+01
+
+Current data point
+=========================
+#               = 1 out of 6
+x               = 2.09163e+37    
+z               = 252            
+
+Current set of parameters
+=========================
+a               = 2.09163e+37    
+b               = 7.49676e+36    
+
+BREAK: Function evaluation yields NaN ("not a number")
+
+*******************************************************************************
+Thu Nov 23 02:10:57 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        #datapoints = 38
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 2 out of 38
+x               = 2.09163e+37    
+z               = 2887           
+
+Current set of parameters
+=========================
+a               = 2.09163e+37    
+b               = 7.49676e+36    
+
+BREAK: Function evaluation yields NaN ("not a number")
+
+*******************************************************************************
+Thu Nov 23 02:11:00 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        #datapoints = 38
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 2 out of 38
+x               = 2.09163e+37    
+z               = 2887           
+
+Current set of parameters
+=========================
+a               = 2.09163e+37    
+b               = 7.49676e+36    
+
+BREAK: Function evaluation yields NaN ("not a number")
+
+*******************************************************************************
+Thu Nov 23 02:11:01 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        #datapoints = 38
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 2 out of 38
+x               = 2.09163e+37    
+z               = 2887           
+
+Current set of parameters
+=========================
+a               = 2.09163e+37    
+b               = 7.49676e+36    
+
+BREAK: Function evaluation yields NaN ("not a number")
+
+*******************************************************************************
+Thu Nov 23 02:13:41 2017
+
+
+FIT:    data read from "coordinates2.0-pdf.dat"
+        format = z
+        x range restricted to [1.00000 : 10.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 2 out of 10
+x               = 2.09163e+37    
+z               = 2887           
+
+Current set of parameters
+=========================
+a               = 2.09163e+37    
+b               = 7.49676e+36    
+
+BREAK: Function evaluation yields NaN ("not a number")
