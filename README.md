@@ -1,8 +1,5 @@
 # network_analysis
 
+複雑ネットワークの生成モデルと，分析アルゴリズムの実装を乗せるディレクトリ.
 
-卒業研究で提案した空間ネットワークのモデルの一つ.
-
-scatter.sh を実行することで，ネットワークを生成する．
-
-heatmap.sh を実行することで，得られたネットワークのヒートマップを生成する．
+Directory for impelemented complex network models and network analysis algorithms.
