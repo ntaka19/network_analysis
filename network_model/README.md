@@ -1,4 +1,4 @@
-#network_model
+# network_model
 
 - BA model: Barabasi-Albert Model
 - MTT model: Miura-Takayasu-Takayasu model
